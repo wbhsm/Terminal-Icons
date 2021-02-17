@@ -85,3 +85,4 @@ If you'd like to submit an entirely new color or icon theme, take a look at the 
 [psgallery]:            https://www.powershellgallery.com/packages/terminal-icons
 [license-badge]:        https://img.shields.io/github/license/poshbotio/poshbot.svg
 [license]:              https://www.powershellgallery.com/packages/poshbot
+#1
