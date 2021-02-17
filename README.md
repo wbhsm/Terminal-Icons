@@ -30,7 +30,7 @@ To install the module from the [PowerShell Gallery](https://www.powershellgaller
 ```powershell
 PS> Install-Module -Name Terminal-Icons -Repository PSGallery
 ```
-
+#1
 ## Usage
 
 ```powershell
